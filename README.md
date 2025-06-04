@@ -33,3 +33,10 @@
 4. Make a POST request to this url: `https://api.challenge.sunvoy.com/api/settings` with all the data and the check code in the body.
 
 5. Get the response from the server and append the current user to the list of users and save the list of users in a file called `users.json`.
+
+
+# Video link
+
+Video: https://www.loom.com/share/4133ccf512eb4617972138133efa04af?sid=b36ace80-73f2-4b0a-b5d6-bec77a8375ef
+
+The project took me a little over 5 hours to finish.
